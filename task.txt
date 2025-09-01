@@ -1,0 +1,14 @@
+1. Static image for card
+2. Integrate to mongodb
+3. file Upload CRUD
+4. Api loading and toast node
+5. Workflow diagram
+6. Notification model or alert
+7. Dashboard Chart
+8. Stocks model
+9. Customer portal
+10. Theme Changes
+11. Header menus
+12. Mobile application
+13. Mode of sales tracking
+14. 
