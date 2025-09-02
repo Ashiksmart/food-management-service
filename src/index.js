@@ -30,6 +30,7 @@ app.use(compression());
 app.use(express.json({ limit: '1mb' }));
 app.use(cors({ origin: config.origin, credentials: true }));
 app.use(morgan('dev'));
+app.set('trust proxy', true);
 app.use(rateLimit({ windowMs: 15*60*1000, max: 300 }));
 
 // Health check
