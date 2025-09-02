@@ -21,7 +21,6 @@ import transactionRoutes from "./routes/transaction.js";
 import deliveryRoutes from "./routes/delivery.js";
 
 
-
 const app = express();
 
 // Middlewares
